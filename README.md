@@ -44,5 +44,7 @@ References
 ----------
 
 [ENGATTI – ENGENHEIROS EM GRUPO AUTÔNOMO PARA TRANSFORMAR, TROCAR E INTEGRAR](http://monografias.poli.ufrj.br/monografias/monopoli10011162.pdf) (in portuguese)
+
 [Sistema de Tecnologia de Grupo: Um Estudo de Caso Através de Análise do Fluxo da Produção](http://www.scielo.br/pdf/prod/v9n1/v9n1a07) (in portuguese)
+
 [Machine-component group analysis versus the similarity coefficient method in cellular manufacturing applications](http://dx.doi.org/10.1016/0360-8352(90)90055-Q)
